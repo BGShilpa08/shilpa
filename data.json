@@ -4,5 +4,28 @@
     "name":"ShilpaBG",
     "email":"shilpabg97@gmail.com",
     "mobile":"7036123403"
-  }
+  },
+  "education":[
+    {
+      "course":"B.Tech(Computer Science and Engineering)",
+      "college":[
+        "G Pullaiah College Of Engineering and Technology",
+        "2015-2019",
+        "81"]
+    },
+    {
+      "course":"Intermediate(MPC)",
+      "college":[
+        "Narayana Junior College",
+        "2013-2015",
+        "97.6"]
+    },
+    {
+      "course":"SSC",
+      "college":[
+        "ST Joseph's English High School",
+        "2013",
+        "96"]
+    }
+  ]
 }
